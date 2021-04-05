@@ -1,0 +1,48 @@
+{
+    "internationalizations": [
+        {
+            "language": "en",
+            "description": "I hack, develop and sometimes make music. In May, 2020 I was encouraged by some Hackers, this burning curiosity results in following my passion and to read related writeups. I used to spend hours in a row trying to learn as much as possible about the bugs and interact with python. Participating in online hacks and competitions, was a power kick, and scoring in top 2000 at <i>Tryhackme</i>, helped me to build practical knowledge in the domain. <br><br>At that time, I just did not know the exciting challenges that were yet to come. <br><br>A few months later, I got an internship as a <i>Penetration Tester</i> at <i>Fineoutput Technologies</i>. Using python as a backbone of hacking, got myself as a senior software developer also, in the same company, since then I never stopped. Worked in many part-time and online internships as <i>Penetration Tester</i>. Having the chance to work with marvelous people, learning every day, and real-life security and bug patches, testing for uncountable hours was an amazing experience. <br><br>The hunger to learn, pushed me into my rough days of preparation for many international exams and certifications. Still it is unfulfilled. <br><br>Nowadays, I keep seeking new skills, opportunities to overcome my weaknesses and sharing my humble knowledge as much as possible."
+        }
+    ],
+    "medias": [        
+        {
+            "icon": "linkedin",
+            "title": "LinkedIn",
+            "http": "https://www.linkedin.com/in/er-salil/"
+        },
+        {
+            "icon": "github",
+            "title": "GitHub",
+            "http": "https://github.com/agrawalsalil"
+        },
+        {
+            "icon": "twitter",
+            "title": "Twitter",
+            "http": "https://www.github.com/agrawalsalil"
+        }
+    ],
+    "hobbies": [        
+        {
+            "icon": "keyboard",
+            "title": "Code to Learn"
+        },
+        {
+            "icon": "bug",
+            "title": "Bug Hunting"
+        },
+        {
+            "icon": "guitar",
+            "title": "Guitarist"
+        },
+        {
+            "icon": "book",
+            "title": "Reading Writeups"
+        },
+	    {
+            "icon": "biking",
+            "title": "Cycling"
+        }
+	    
+    ]
+}

@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "position": 1,
+        "startAt": "11-30-2020",
+        "endAt": "05-16-2021",
+        "companyName": "Fineoutput Technologies",
+        "website": "https://www.fineoutput.com/",
+        "logo": "../../assets/template/experience/logo/fineoutput_logo.png",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "Jaipur",
+                "country": "India",
+                "role": "Software Developer, Penetration Tester",
+                "description": "<b>Fineoutput</b> is a company focused in IT Solutions being it Website development, content creation, making Android or IOS applications or other online services, They offer a wide array of website design, SEO, web development and internet marketing services for establishing a unique and highly effective online presence for the clients. <br><br>At <i>Fineoutput</i>, I secured Web and Android Applications by exploiting <i>XSS, CRSF, Clickjacking, SQL Injection, Improper Input Sanitization, etc</i>. <br>I handled more than 5 projects including, Employ management system, Hybrid data entry software, Online file handling, Web scraping projects"
+            }
+        ],
+        "technologies": [
+            "Python", "Pyqt5", "Burpsuite", "Red Hat Linux", "Kali Linux", "ffuf", "Wireshark", "Nmap", "MySQL", "Metasploit", "Apktool"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn Fineoutput Technologies",
+                "http": "https://www.linkedin.com/company/fineoutput-technologies-private-limited/"
+            },
+            {
+                "icon": "google-play",
+                "title": "Playstore Fineoutput Technologies",
+                "http": "https://play.google.com/store/apps/details?id=com.anaypareek.completewebview&hl=en_IN&gl=US"
+            },
+            {
+                "icon": "instagram",
+                "title": "Instagram Fineoutput Technologies",
+                "http": "https://www.instagram.com/fineoutput/"
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/fineoutput.png"
+    },
+    {
+        "id": 2,
+        "position": 2,
+        "startAt": "12-15-2020",
+        "endAt": "06-16-2021",
+        "companyName": "HackerOne",
+        "website": "http://www.hackerone.com/",
+        "logo": "../../assets/template/experience/logo/hackerone_logo_white.png",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "San Francisco",
+                "country": "United States",
+                "role": "Web Application Penetration Tester",
+                "description": "<b>HackerOne</b> was started by hackers and security leaders who are driven by a passion to make the internet safer. The platform is the industry standard for hacker-powered security. They partner with the global hacker community to surface the most relevant security issues of the customers before they can be exploited by criminals. <br><br>At <i>HackerOne</i>, I gained practical experiance in securing world's leading companies, and to penetrate into most robust applications. Secured <i>Yelp, BMW Group, Engel and Volkers, Enjin, JNJ Mobiles, eToro and Checkout</i>. Currently, In the Hall of Frame of: Enjin at 8th rank and JNJ Mobiles at 18th rank"
+            }
+        ],
+        "technologies": [
+            "Python", "Burpsuite", "Red Hat Linux", "Kali Linux", "ffuf", "Wireshark", "Nmap"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn HackerOne",
+                "http": "https://www.linkedin.com/company/hackerone/"
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/hackerone.jpg"
+    }
+    
+]
