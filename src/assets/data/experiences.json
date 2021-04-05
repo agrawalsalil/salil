@@ -6,7 +6,7 @@
         "endAt": "05-16-2021",
         "companyName": "Fineoutput Technologies",
         "website": "https://www.fineoutput.com/",
-        "logo": "../../assets/template/experience/logo/fineoutput_logo.png",
+        "logo": "./assets/template/experience/logo/fineoutput_logo.png",
         "internationalizations": [
             {
                 "language": "en",
@@ -36,7 +36,7 @@
                 "http": "https://www.instagram.com/fineoutput/"
             }
         ],
-        "backgroundUrl": "../../assets/template/experience/fineoutput.png"
+        "backgroundUrl": "./assets/template/experience/fineoutput.png"
     },
     {
         "id": 2,
@@ -45,7 +45,7 @@
         "endAt": "06-16-2021",
         "companyName": "HackerOne",
         "website": "http://www.hackerone.com/",
-        "logo": "../../assets/template/experience/logo/hackerone_logo_white.png",
+        "logo": "./assets/template/experience/logo/hackerone_logo_white.png",
         "internationalizations": [
             {
                 "language": "en",
@@ -65,7 +65,7 @@
                 "http": "https://www.linkedin.com/company/hackerone/"
             }
         ],
-        "backgroundUrl": "../../assets/template/experience/hackerone.jpg"
+        "backgroundUrl": "./assets/template/experience/hackerone.jpg"
     }
     
 ]
